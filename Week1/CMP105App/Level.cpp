@@ -5,7 +5,7 @@ Level::Level(sf::RenderWindow* hwnd)
 	window = hwnd;
 	// initialise game objects
 	circle.setRadius(50);
-	circle.setPosition(550, 335);
+	circle.setPosition(575, 335);
 	circle.setFillColor(sf::Color::White);
 
 	/*Rectangle initialisation*/
